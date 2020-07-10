@@ -1,0 +1,336 @@
+[
+    {
+        "id": "fra",
+        "name": "Frankfurt am Main",
+        "data": [
+            {
+                "areaId": "60306",
+                "total": 10,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60389",
+                "total": 20,
+                "active": 10,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60388",
+                "total": 40,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60435",
+                "total": 50,
+                "active": 25,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60318",
+                "total": 10,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60599",
+                "total": 17,
+                "active": 14,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60594",
+                "total": 12,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60385",
+                "total": 19,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60310",
+                "total": 51,
+                "active": 16,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60386",
+                "total": 11,
+                "active": 2,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60316",
+                "total": 18,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60314",
+                "total": 35,
+                "active": 25,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60311",
+                "total": 31,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60313",
+                "total": 30,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60323",
+                "total": 22,
+                "active": 15,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60487",
+                "total": 60,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60439",
+                "total": 70,
+                "active": 35,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60438",
+                "total": 80,
+                "active": 45,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60437",
+                "total": 20,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60431",
+                "total": 10,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60488",
+                "total": 15,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60320",
+                "total": 17,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60433",
+                "total": 27,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "65934",
+                "total": 37,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60329",
+                "total": 44,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60486",
+                "total": 10,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60326",
+                "total": 41,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "65936",
+                "total": 11,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60325",
+                "total": 16,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60308",
+                "total": 19,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60489",
+                "total": 21,
+                "active": 15,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60322",
+                "total": 20,
+                "active": 15,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60528",
+                "total": 32,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "65931",
+                "total": 77,
+                "active": 25,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "65929",
+                "total": 10,
+                "active": 0,
+                "cured": 10,
+                "critical": 0,
+                "deaths": 0
+            },
+            {
+                "areaId": "60529",
+                "total": 10,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60598",
+                "total": 71,
+                "active": 45,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60549",
+                "total": 21,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "65933",
+                "total": 33,
+                "active": 15,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60596",
+                "total": 26,
+                "active": 5,
+                "cured": 2,
+                "critical": 1,
+                "deaths": 0
+            },
+            {
+                "areaId": "60327",
+                "total": 11,
+                "active": 0,
+                "cured": 10,
+                "critical": 0,
+                "deaths": 1
+            }
+        ]
+    }
+]
